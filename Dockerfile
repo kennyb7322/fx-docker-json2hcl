@@ -1,4 +1,4 @@
-FROM alpine:lastest as BUILDER
+FROM alpine:latest as BUILDER
 
 ENV JSON2HCL_VERSION=0.0.6
 
